@@ -5,4 +5,4 @@ services:
     dockerfilePath: ./Dockerfile
     envVars:
       - key: ALLOWED_ORIGINS
-        value: https://moonlit-palmier-1ddbfc.netlify.app/
+        value: https://astonishing-florentine-6e7433.netlify.app/
